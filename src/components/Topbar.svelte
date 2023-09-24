@@ -6,11 +6,14 @@
 
 <style>
     .topbar {
-        padding: 4px;
+        padding: 10px;
         display: flex;
         justify-content: center;
         gap: 10px;
         font-size: x-large;
+    }
+    .topbar a{
+        text-decoration: none;
         color: white;
     }
 </style>
